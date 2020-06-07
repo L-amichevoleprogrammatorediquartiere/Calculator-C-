@@ -1,2 +1,2 @@
-# Calculator-C-
+# Calculator-C++
 Simple made in C++
